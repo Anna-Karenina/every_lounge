@@ -1,0 +1,22 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define", "ACCESS_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYWFiOTBjOWI4OTJmZjFjY2M5YjZkYmUzMzczOTUyOCIsIm5iZiI6MTcyMTgyMzkwOS44NjIyMDYsInN1YiI6IjY2YTBlZTRjODM1OGNhNTAyNDgwY2EwMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Lbt3wMeY_TMyeMKOO2NYRdSwm8fRo0SqegbR52m4lpo",
+        "--dart-define", "API_TOKEN=0aab90c9b892ff1ccc9b6dbe33739528",
+        "--dart-define", "HOST=https://api.themoviedb.org",
+
+      ]
+    }
+  ]
+}
+
+
