@@ -1,0 +1,22 @@
+name: package_common
+description: "A common package for sharing resources"
+version: 0.0.1
+publish_to: "none"
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^7.6.7
+  package_data_server_api:
+    path: ../package_data_server_api
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+

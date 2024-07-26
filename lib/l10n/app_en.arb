@@ -1,0 +1,16 @@
+{
+  "appTitle": "every_test",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "navigation_title_home": "Home",
+  "navigation_title_search": "Search",
+  "most_popular": "Most popular",
+  "overview": "Overview",
+  "genre":"Genre",
+  "not_found": "No search result",
+  "searching_most_popular": "Searching most popular moves",
+  "searching_most_popular_error": "Searching error try refresh the page",
+  "network_error": "Something goes wrong with network, check VPN status"
+}
